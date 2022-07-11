@@ -1,0 +1,1 @@
+["Odam alayhissalom", "Nuh alayhissalom", 'Hud alayhissalom', 'Solih alayhissalom', 'Ibrohim alayhissalom','Lut alayhissalom', 'Yusuf alayhissalom', 'Ayyub alayhissalom', 'Yunus alayhissalom', 'Muso alayhissalom', 'Yusha ibn Nun alayhissalom', 'Dovud va Sulaymon alayhissalomlar', 'Zakariyo va Yahyo alayhissalomlar', 'Iso alayhissalom'])
